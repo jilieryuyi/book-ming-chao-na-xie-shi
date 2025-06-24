@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">f9c0c655-0620-4546-aa04-d6c05b47208e</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9c0c655-0620-4546-aa04-d6c05b47208e</dc:identifier>
+        <dc:title>明朝那些事儿</dc:title>
+        <dc:creator opf:file-as="当年明月" opf:role="aut">当年明月</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-05T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com浏览海量电子书。</dc:rights>
+        <dc:language>zh</dc:language>
+        <dc:subject>历史军事</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
